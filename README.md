@@ -9,6 +9,7 @@
 Также исследованы зависимости длительности шифрования и дешифрования от битовой длины сообщения при разных длинах ключа. Для отображения результатов написана функция построение графиков. 
 
 Пример работы программы:
+
 <img width="548" height="80" alt="image" src="https://github.com/user-attachments/assets/a3b505b8-73f4-4241-b845-8f291433ca2c" />
 
 <img width="681" height="250" alt="image" src="https://github.com/user-attachments/assets/888f8739-1928-4902-9250-ccadbdff1e3c" />
