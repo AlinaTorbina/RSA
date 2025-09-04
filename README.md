@@ -1,4 +1,6 @@
 # RSA
+Учебный проект по реализации алгоритма RSA. 
+
 В программе реализована процедура генерации открытого и закрытого ключей заданной длины. Открытый ключ в виде пары числе (e,n) записывается в файл public.txt, закрытый ключ в виде пары чисел 
 (d,n) записывается в файл private.txt. 
 
@@ -16,10 +18,15 @@
 
 <img width="667" height="256" alt="image" src="https://github.com/user-attachments/assets/a1f09400-f884-4cf4-a825-ff4d76dd47b1" />
 
+Исходный текст:
+
 <img width="930" height="310" alt="image" src="https://github.com/user-attachments/assets/b0267169-7f04-4158-ac54-e60a6b972d72" />
+
+Зашифрованный текст:
 
 <img width="933" height="496" alt="image" src="https://github.com/user-attachments/assets/c3d46c3c-437c-456e-b9d9-a312faa58256" />
 
+Разложение чисел на множители методом ρ-эвристики Полларда для поиска закрытого ключа
 <img width="531" height="173" alt="image" src="https://github.com/user-attachments/assets/42ba4205-7960-43b9-b41a-09ca579467ef" />
 
 <img width="804" height="582" alt="image" src="https://github.com/user-attachments/assets/59c226ce-d0bf-49e2-9e0c-13211411ae9d" />
